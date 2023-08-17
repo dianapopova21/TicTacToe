@@ -1,4 +1,4 @@
-# TicTacToe
-Мой небольшой проект - это игра <b>"Крестики-нолики"</b> с возможностью играть с ботом. В этом проекте я воплотила свои знания в программировании и логике, создавая интересное и развивающее развлечение.
+# Tic-Tac-Toe
+My small project is a tic-tac-toe game with the ability to play with a bot. In this project, I embodied my knowledge in programming and logic, creating interesting and educational entertainment.
 
-Игра "Крестики-нолики" - классическая игра, и добавление бота как противника придает ей интерес. Я разработала алгоритм, который позволяет боту принимать интеллектуальные решения и противостоять игроку. Бот может анализировать текущее состояние игрового поля, предсказывать ходы игрока и принимать оптимальные решения, чтобы выиграть или предотвратить поражение.
+Tic-tac-toe is a classic game and the addition of a bot as an adversary adds interest to it. I developed an algorithm that allows the bot to make intelligent decisions and confront the player. The bot can analyze the current state of the playing field, predict the player's moves and make the best decisions to win or prevent defeat.
